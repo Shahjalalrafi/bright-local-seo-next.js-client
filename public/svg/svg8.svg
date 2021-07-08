@@ -1,0 +1,38 @@
+<svg width="80px" height="71px" viewBox="0 0 80 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<title>404A69AD-F240-4899-B9DA-50A03A8B1B12</title>
+<desc>Created with sketchtool.</desc>
+<defs>
+<rect id="path-1" x="8" y="0" width="80" height="80"></rect>
+<linearGradient x1="43.5058594%" y1="42.4934896%" x2="52.9535061%" y2="82.4440104%" id="linearGradient-3">
+<stop stop-color="#549FBA" stop-opacity="0.65" offset="0%"></stop>
+<stop stop-color="#549FBA" stop-opacity="0" offset="100%"></stop>
+</linearGradient>
+<linearGradient x1="43.5058594%" y1="42.4934896%" x2="43.5058594%" y2="90.9925426%" id="linearGradient-4">
+<stop stop-color="#1D2B3B" stop-opacity="0.299960371" offset="0%"></stop>
+<stop stop-color="#1D2B3B" stop-opacity="0" offset="100%"></stop>
+</linearGradient>
+<polygon id="path-5" points="7 73 28.1528824 31.9745093 47.9873089 50.0102148 70.3652421 54.9987076 89 27 89 82 7 82"></polygon>
+</defs>
+<g id="Demos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="Tools-Panels" transform="translate(-525.000000, -1607.000000)">
+<g id="Organisms-/-Product-Highlights" transform="translate(0.000000, 1322.000000)">
+<g id="Benefit-Copy-6">
+<g transform="translate(455.000000, 237.000000)">
+<g id="Icons-/-Benefits-/-Large-add-listings" transform="translate(62.000000, 40.000000)">
+<mask id="mask-2" fill="white">
+<use xlink:href="#path-1"></use>
+</mask>
+<g id="Rectangle-2" fill-rule="nonzero"></g>
+<path d="M7.5,73.3607916 L7.5,81.5 L88.5,81.5 L88.5,8.50736228 L70.6758984,32.4185666 L48.2949461,40.4311547 L28.4566903,66.400462 L7.5,73.3607916 Z" id="Rectangle-36" stroke="#549FBA" fill="url(#linearGradient-3)" fill-rule="nonzero" mask="url(#mask-2)"></path>
+<g id="Rectangle-36-Copy" fill-rule="nonzero" mask="url(#mask-2)" stroke-linejoin="square">
+<path stroke="#FFFFFF" d="M7.5,73.1213128 L7.5,81.5 L88.5,81.5 L88.5,28.6536774 L70.591364,55.5613874 L47.7490599,50.469377 L28.2986445,32.7828578 L7.5,73.1213128 Z" fill="url(#linearGradient-4)" fill-rule="evenodd"></path>
+<path stroke-opacity="0.4" stroke="#1D2B3B" d="M7.5,73.1213128 L7.5,81.5 L88.5,81.5 L88.5,28.6536774 L70.591364,55.5613874 L47.7490599,50.469377 L28.2986445,32.7828578 L7.5,73.1213128 Z"></path>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
